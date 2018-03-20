@@ -13,3 +13,4 @@ Allows a operator to accept or deny requests from users
 * Better checking for status updates in client.py
 * GUI with tkinter
 * ACL commands for server.py 
+* Server should create the database and client should find it
