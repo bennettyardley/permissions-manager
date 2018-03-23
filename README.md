@@ -10,8 +10,6 @@ Allows a operator to accept or deny requests from users
 ## To Do
 * Add error checking for the inputs in client.py
 * Set some default values for client.py
-* Better checking for status updates in client.py
 * GUI with tkinter
 * ACL commands for server.py 
-* Server should create the database and client should find it
 * Delete Record once it is finished, a problem because the client wont see the status in time and it only will get deleted when you accept the request
