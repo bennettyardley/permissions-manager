@@ -14,3 +14,4 @@ Allows a operator to accept or deny requests from users
 * GUI with tkinter
 * ACL commands for server.py 
 * Server should create the database and client should find it
+* Delete Record once it is finished, a problem because the client wont see the status in time and it only will get deleted when you accept the request
