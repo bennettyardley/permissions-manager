@@ -8,8 +8,10 @@ Allows a user to request permissions to a certain folder
 Allows a operator to accept or deny requests from users
 
 ## To Do
-* Add error checking for the inputs in client.py
+* Add error checking for the inputs in client.py and GUI.py
 * Set some default values for client.py
 * GUI with tkinter
 * ACL commands for server.py 
 * Delete Record once it is finished, a problem because the client wont see the status in time and it only will get deleted when you accept the request
+* Improve the readme with required packages and more details
+* Improve functions for easier to read code
