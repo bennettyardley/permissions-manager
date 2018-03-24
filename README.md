@@ -1,5 +1,5 @@
 # permissions-manager
-A cool way to manage permission in Linux by assigning user temporary rights, when they need it. In a real world situation the database would be hosted with the server and the client would have to connect, but both are local.
+A cool way to manage permission in Linux by assigning users temporary rights, when they need it. In a real world situation the database would be hosted with the server and the client would have to connect, but both are local for this project.
 
 # client.py
 Allows a user to request permissions to a certain folder
