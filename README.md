@@ -11,4 +11,3 @@ Allows a operator to accept or deny requests from users
 * ACL commands for server.py 
 * Improve the readme with required packages and more details
 * Improve functions for easier to read code
-* Improve text and spacing in print statements
