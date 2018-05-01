@@ -10,6 +10,9 @@ A GUI for client.py that makes input a lot easier through folder dialouges, chec
 # server.py
 Allows an operator to accept or deny requests from users. Has error checking incase a user gave bad input and allows the server to send a reason for a denial so the user can change their request.
 
+# permissionsmanager.pdf
+A PowerPoint presentation explaining the Permissions Manager project 
+
 ## Requirments
 None :D
 
