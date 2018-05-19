@@ -14,7 +14,7 @@ Allows an operator to accept or deny requests from users. Has error checking inc
 A PowerPoint presentation explaining the Permissions Manager project 
 
 ## Requirments
-None :D, but possible mysql in the future.
+None :D
 
 ## To Do
 * ACL commands for server.py 
