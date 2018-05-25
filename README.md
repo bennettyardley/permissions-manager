@@ -17,5 +17,4 @@ A PowerPoint presentation explaining the Permissions Manager project
 None :D
 
 ## To Do
-* ACL commands for server.py 
 * Update from sqlite3 to mysql
