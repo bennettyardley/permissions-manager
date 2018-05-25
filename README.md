@@ -18,3 +18,10 @@ None :D
 
 ## To Do
 * Update from sqlite3 to mysql
+Linux:
+setfacl -m u:USERNAME:PERMS -R DIRECTORY
+setfacl -x u:USERNAME:PERMS -R DIRECTORY
+Windows:
+icacls “PATH” /grant:r USERNAME:PERMS
+icacls “PATH” /deny:r USERNAME:PERMS  
+
