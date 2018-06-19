@@ -1,4 +1,4 @@
-from tkinter import a
+from tkinter import *
 import tkFileDialog as filedialog
 import ScrolledText, sqlite3, getpass, time, uuid
 
