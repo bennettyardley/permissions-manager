@@ -1,7 +1,7 @@
 import sqlite3, getpass, time, uuid
 
 conn = sqlite3.connect('requests.db')
-c = conn.cursor()
+d = conn.cursor()
 
 def wait(randomID):
 	while True:
