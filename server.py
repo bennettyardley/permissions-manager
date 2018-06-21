@@ -1,7 +1,7 @@
 import sqlite3, threading, time, os
 
 conn = sqlite3.connect('requests.db')
-c = conn.cursor()
+d = conn.cursor()
 
 def removePermission(values):
     #setfacl -m u:USERNAME:PERMS -R DIRECTORY
