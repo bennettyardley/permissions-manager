@@ -3,7 +3,7 @@ import sqlite3, getpass, time, uuid
 conn = sqlite3.connect('requests.db')
 c = conn.cursor()
 
-def wait():
+def wait(randomID):
 	while True:
 		time.sleep(5)
 		conn = sqlite3.connect('requests.db')
